@@ -1,0 +1,7 @@
+﻿{
+  "id": "DxTwitterSentiment", 
+  "version": "0.0.3", 
+  "authors": "wadewegner",
+  "description": "A twitter sentiment service for DX",
+  "name": "Twitter Sentiment for"
+}
